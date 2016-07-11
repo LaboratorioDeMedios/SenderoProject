@@ -38,4 +38,8 @@ Architecture
 
  - [Sendero (Generic) Client](https://github.com/LaboratorioDeMedios/SenderoGenericClient_Linux)
 	
-	Sendero component in charge of generating the lighting patterns and delivering it to Sendero Server.  
+	Sendero component in charge of generating the lighting patterns and delivering it to Sendero Server. 
+
+----------
+
+Logo designed by flaviarampa@gmail.com & nilsonbarbara@gmail.com
